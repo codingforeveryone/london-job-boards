@@ -32,8 +32,7 @@ ___
 * [Zealify](www.zealify.com) Visit startup offices to get a feel for the culture
 * [Glassdoor](www.glassdoor.co.uk) Useful for finding employee reviews and potential interview questions!
 * [Remote jobs](https://github.com/josiahsprague/remote-job-boards) Lists of remote job boards. It's missing remoteok.io
-* [Slack job board ](http://slackatwork.com/) Post up to 3 jobs for free if your team uses Slack. 
-* [Dreamstake skill swap](http://www.dreamstake.net/skillswap) Try the most efficient way to resource your startup. Just state what you need help with and what you can provide in return.
+* [Slack job board ](http://slackatwork.com/) Jobs where the teams use slack
 * [Somewhere](http://somewherehq.com/) Visual CVs, founder based in London
 
 ---
