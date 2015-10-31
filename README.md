@@ -1,4 +1,4 @@
-A curated list job boards useful for finding tech jobs in London along with some other useful links. These boards have been selected and listed in this order according to how relevant/active they are (feel free to improve!)
+A curated list of job boards for finding tech jobs in London along with some other useful links. These boards have been selected and listed in this order according to how relevant/active they are (feel free to improve!)
 
 The original extended crowdsourced list of all boards can be found on this [google spreadsheet](https://docs.google.com/spreadsheets/d/1l97oJKfmFYKl1dFda4Y01OSmiuxgFsCRbiuoRCrp8vE/edit?usp=sharing). The full list isn't included here as it's slightly overwhelming.
 
