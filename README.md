@@ -1,2 +1,44 @@
-# london-job-boards
-A collection of London specific tech job boards
+A curated list job boards useful for finding tech jobs in London along with some other useful links. These boards have been selected and listed in this order according to how relevant/active they are (feel free to improve!)
+
+The original extended crowdsourced list of all boards can be found on this [google spreadsheet](https://docs.google.com/spreadsheets/d/1l97oJKfmFYKl1dFda4Y01OSmiuxgFsCRbiuoRCrp8vE/edit?usp=sharing). The full list isn't included here as it's slightly overwhelming.
+
+___
+
+
+##Job boards
+* [Hired](http://www.hired.com) Matchmaker for engineers and the companies hoping to hire them
+*  [Hack A job](hackajob.co) Pass coding challenges to get hired. This team went through the Techstars accelerator program in London
+* [Work In Startups](workinstartups.com) Popular & active job board for startups in London
+* [Unicorn Hunt](unicornhunt.io) Run by 3beards, another active job board for startups
+* [London Startup Jobs Facebook group](facebook.com/groups/356650711075435/) An active facebook group with postings for startups
+* [Talent Rocket](talentrocket.co.uk) Follow your favourite startups & get notified when they are looking to hire
+* [Workshape](workshape.io) Matches applicants with hiring companies based on skill sets
+* [Angel List](angel.co/jobs) Jobs at startups
+* [Breaz](http://breaz.io/) "Career Opportunities for Tech Experts. Get multiple interview requests from the best tech teams in 7 days"
+* [Landing Jobs](https://www.landing.jobs/) Digital jobs marketplace based on verified job openings from startups and tech firms. Founder based in London
+* [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
+* [Escape the City](escapethecity.org) Startups and more exotic jobs/volunteering postiions abroad
+* [Adzuna](www.adzuna.co.uk) Aggregated search of job boards
+
+---
+
+##Meetups/Events
+* [Silicon Milk Roundabout](siliconmilkroundabout.com) The biggest startup Job Fair
+* [Find a tech job in London](http://www.meetup.com/Find-A-tech-Job-In-London/) Informal meetups attending by companies hiring and candidates
+
+---
+
+##Other
+* [Zealify](www.zealify.com) Visit startup offices to get a feel for the culture
+* [Glassdoor](www.glassdoor.co.uk) Useful for finding employee reviews and potential interview questions!
+* [Remote jobs](https://github.com/josiahsprague/remote-job-boards) Lists of remote job boards. It's missing remoteok.io
+* [Slack job board ](http://slackatwork.com/) Post up to 3 jobs for free if your team uses Slack. 
+* [Dreamstake skill swap](http://www.dreamstake.net/skillswap) Try the most efficient way to resource your startup. Just state what you need help with and what you can provide in return.
+* [Somewhere](http://somewherehq.com/) Visual CVs, founder based in London
+
+---
+
+##Recommended reading
+* [How I hacked the job hunt](https://medium.com/tech-london/how-i-hack-the-job-research-ecc87f8b9127) Written from the perspective of a technical marketer, but a great source of inspiration on how to think of alternative ways to approach job searching and stand out from the rest of the crowd
+* [How to marinate your job](https://medium.com/@orliesaurus/how-to-marinate-your-job-1cf6f830362d#.khlys5bxx) Some useful considerations to take into mind when job searching
+* [Recommended recruiters](https://medium.com/tech-london/recommended-recruiters-london-startup-sme-e6dd783d3080#.r84yx957n) A list of recommended recrutiers for startups & SMEs in London (twitter list here: https://twitter.com/techlondonio/lists/recommended-recruiters)
