@@ -7,13 +7,13 @@ ___
 
 ##Job boards
 * [Hired](http://www.hired.com) Matchmaker for engineers and the companies hoping to hire them
-*  [Hack A job](hackajob.co) Pass coding challenges to get hired. This team went through the Techstars accelerator program in London
-* [Work In Startups](workinstartups.com) Popular & active job board for startups in London
-* [Unicorn Hunt](unicornhunt.io) Run by 3beards, another active job board for startups
-* [London Startup Jobs Facebook group](facebook.com/groups/356650711075435/) An active facebook group with postings for startups
-* [Talent Rocket](talentrocket.co.uk) Follow your favourite startups & get notified when they are looking to hire
-* [Workshape](workshape.io) Matches applicants with hiring companies based on skill sets
-* [Angel List](angel.co/jobs) Jobs at startups
+*  [Hack A job](http://www.hackajob.co) Pass coding challenges to get hired. This team went through the Techstars accelerator program in London
+* [Work In Startups](http://www.workinstartups.com) Popular & active job board for startups in London
+* [Unicorn Hunt](http://www.unicornhunt.io) Run by 3beards, another active job board for startups
+* [London Startup Jobs Facebook group](http://www.facebook.com/groups/356650711075435/) An active facebook group with postings for startups
+* [Talent Rocket](http://www.talentrocket.co.uk) Follow your favourite startups & get notified when they are looking to hire
+* [Workshape](http://www.workshape.io) Matches applicants with hiring companies based on skill sets
+* [Angel List](http://www.angel.co/jobs) Jobs at startups
 * [Breaz](http://breaz.io/) "Career Opportunities for Tech Experts. Get multiple interview requests from the best tech teams in 7 days"
 * [Landing Jobs](https://www.landing.jobs/) Digital jobs marketplace based on verified job openings from startups and tech firms. Founder based in London
 * [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
@@ -23,7 +23,7 @@ ___
 ---
 
 ##Meetups/Events
-* [Silicon Milk Roundabout](siliconmilkroundabout.com) The biggest startup Job Fair
+* [Silicon Milk Roundabout](http://www.siliconmilkroundabout.com) The biggest startup Job Fair
 * [Find a tech job in London](http://www.meetup.com/Find-A-tech-Job-In-London/) Informal meetups attending by companies hiring and candidates
 
 ---
