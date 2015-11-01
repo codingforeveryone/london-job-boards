@@ -18,7 +18,7 @@ ___
 * [Landing Jobs](https://www.landing.jobs/) Digital jobs marketplace based on verified job openings from startups and tech firms. Founder based in London
 * [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
 * [Escape the City](escapethecity.org) Startups and more exotic jobs/volunteering postiions abroad
-* [Adzuna](adzuna.co.uk) Aggregated search of job boards
+* [Adzuna](http://www.adzuna.co.uk) Aggregated search of job boards
 
 ---
 
@@ -29,8 +29,8 @@ ___
 ---
 
 ##Other
-* [Zealify](zealify.com) Visit startup offices to get a feel for the culture
-* [Glassdoor](glassdoor.co.uk) Useful for finding employee reviews and potential interview questions!
+* [Zealify](http://www.zealify.com) Visit startup offices to get a feel for the culture
+* [Glassdoor](http://www.glassdoor.co.uk) Useful for finding employee reviews and potential interview questions!
 * [Remote jobs](https://github.com/josiahsprague/remote-job-boards) Lists of remote job boards. It's missing remoteok.io
 * [Slack job board ](http://slackatwork.com/) Jobs where the teams use slack
 * [Somewhere](http://somewherehq.com/) Visual CVs, founder based in London
