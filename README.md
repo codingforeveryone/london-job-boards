@@ -17,7 +17,7 @@ ___
 * [Breaz](http://breaz.io/) "Career Opportunities for Tech Experts. Get multiple interview requests from the best tech teams in 7 days"
 * [Landing Jobs](https://www.landing.jobs/) Digital jobs marketplace based on verified job openings from startups and tech firms. Founder based in London
 * [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
-* [Escape the City](escapethecity.org) Startups and more exotic jobs/volunteering postiions abroad
+* [Escape the City](http://www.escapethecity.org) Startups and more exotic jobs/volunteering postiions abroad
 * [Adzuna](http://www.adzuna.co.uk) Aggregated search of job boards
 
 ---
