@@ -18,7 +18,7 @@ ___
 * [Landing Jobs](https://www.landing.jobs/) Digital jobs marketplace based on verified job openings from startups and tech firms. Founder based in London
 * [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
 * [Rise High](http://risehigh.co/) "Get recommended to relevant startups"
-* [Escape the City](http://www.escapethecity.org) Startups and more exotic jobs/volunteering postiions abroad
+* [Escape the City](http://www.escapethecity.org) Startups and more exotic jobs/volunteering positions abroad
 * [Adzuna](http://www.adzuna.co.uk) Aggregated search of job boards
 
 ---
@@ -41,4 +41,4 @@ ___
 ##Recommended reading
 * [How I hacked the job hunt](https://medium.com/tech-london/how-i-hack-the-job-research-ecc87f8b9127) Written from the perspective of a technical marketer, but a great source of inspiration on how to think of alternative ways to approach job searching and stand out from the rest of the crowd
 * [How to marinate your job](https://medium.com/@orliesaurus/how-to-marinate-your-job-1cf6f830362d#.khlys5bxx) Some useful considerations to take into mind when job searching
-* [Recommended recruiters](https://medium.com/tech-london/recommended-recruiters-london-startup-sme-e6dd783d3080#.r84yx957n) A list of recommended recrutiers for startups & SMEs in London (twitter list here: https://twitter.com/techlondonio/lists/recommended-recruiters)
+* [Recommended recruiters](https://medium.com/tech-london/recommended-recruiters-london-startup-sme-e6dd783d3080#.r84yx957n) A list of recommended recruiters for startups & SMEs in London (twitter list here: https://twitter.com/techlondonio/lists/recommended-recruiters)
