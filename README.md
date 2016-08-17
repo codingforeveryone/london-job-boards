@@ -30,7 +30,6 @@ ___
 ---
 
 ##Other
-* [Zealify](http://www.zealify.com) Visit startup offices to get a feel for the culture
 * [Glassdoor](http://www.glassdoor.co.uk) Useful for finding employee reviews and potential interview questions!
 * [Remote jobs](https://github.com/josiahsprague/remote-job-boards) Lists of remote job boards. It's missing remoteok.io
 * [Slack job board ](http://slackatwork.com/) Jobs where the teams use slack
