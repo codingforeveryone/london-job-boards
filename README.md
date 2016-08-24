@@ -17,7 +17,6 @@ ___
 * [Breaz](http://breaz.io/) "Career Opportunities for Tech Experts. Get multiple interview requests from the best tech teams in 7 days"
 * [Landing Jobs](https://www.landing.jobs/) Digital jobs marketplace based on verified job openings from startups and tech firms. Founder based in London
 * [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
-* [Rise High](http://risehigh.co/) "Get recommended to relevant startups"
 * [Escape the City](http://www.escapethecity.org) Startups and more exotic jobs/volunteering postiions abroad
 * [Adzuna](http://www.adzuna.co.uk) Aggregated search of job boards
 
@@ -35,6 +34,7 @@ ___
 * [Remote jobs](https://github.com/josiahsprague/remote-job-boards) Lists of remote job boards. It's missing remoteok.io
 * [Slack job board ](http://slackatwork.com/) Jobs where the teams use slack
 * [Somewhere](http://somewherehq.com/) Visual CVs, founder based in London
+* [Rise High](http://risehigh.co/) "Top non tech jobs in London startups. Marketing, sales, business development and operations roles."
 
 ---
 
