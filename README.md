@@ -19,6 +19,7 @@ ___
 * [F6s Jobs](http://www.f6s.com/jobs) "Thousands of Startup job vacancies at top Startups. F6S finds you work in Startups with job salary and equity info."
 * [Escape the City](http://www.escapethecity.org) Startups and more exotic jobs/volunteering positions abroad
 * [Adzuna](http://www.adzuna.co.uk) Aggregated search of job boards
+* [OkJob](https://okjob.io/companies/) 4 day week job board featuring 19 companies from London hiring for 4 day weeks 
 
 ---
 
